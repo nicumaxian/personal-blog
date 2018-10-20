@@ -3,6 +3,8 @@ title: First pages with Hugo
 date: 2018-10-20
 ---
 
+![Hugo logo](https://gohugo.io/images/gohugoio-card.png)
+
 ## About Hugo
 Hugo is one of the most popular open-source static site generators. 
 With its amazing speed and flexibility, Hugo makes building websites fun again.

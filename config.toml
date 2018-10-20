@@ -36,6 +36,12 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-github fa-2x"
     weight = 1
     url = "https://github.com/maxiannicu"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 2
+    url = "https://www.linkedin.com/in/nicu-maxian-b73105b1/"
+
 
 # Menu links
 [[menu.main]]
