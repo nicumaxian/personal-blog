@@ -10,12 +10,12 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+#disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Nicu Maxian"
-    info = "Go developer"
-    description = "Nicu Maxian's personal website"
+    info = "Software Engineer at @Ellation"
+    description = "Nicu Maxian's null blog"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpeg"
 
