@@ -1,6 +1,6 @@
 baseURL = "https://nicumaxian.github.io"
 languageCode = "en-us"
-title = "Nicu Maxian - personal blog"
+title = "Nicu's Blog"
 theme = "coder"
 
 paginate = 20
@@ -14,10 +14,10 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Nicu Maxian"
-    info = "Software Engineer at @Ellation"
-    description = "Nicu Maxian's null blog"
+    info = "Senior Software Engineer"
+    description = "Yet another software engineering blog"
     keywords = "blog,developer,personal"
-    avatarurl = "images/avatar.jpeg"
+    avatarurl = "images/avatar.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
@@ -29,6 +29,7 @@ pygmentscodefencesguesssyntax = true
 
     math = true
     custom_css = ["css/custom.css"]
+    hideCredits = true
 
 # Social links
 [[params.social]]
